@@ -14,6 +14,7 @@
 ## Next Step
 - Upload to PyPi (allows user to download using PIP)
 - Improve & clean up code
+- Increase the search results
 - Search result from pornography websites
 - Search target name from dark web (still researching, hope can do it)
 - Allows user to gather company information
