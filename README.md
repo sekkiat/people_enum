@@ -15,7 +15,7 @@
 - Upload to PyPi (allows user to download using PIP)
 - Improve & clean up code
 - Search result from pornography websites
-- Serach target name from dark web (still researching, hope can do it)
+- Search target name from dark web (still researching, hope can do it)
 - Allows user to gather company information
 
 Currently, I am learning Python, feel free to comment if any need to improve.
